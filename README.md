@@ -1,7 +1,7 @@
 # RobotAXController / Dự án Phần mềm điều khiển Stepper Motor TB6600 ESP32S3
 
 ## Video Demo hệ thống
-[<video src="Video_Demo.mp4" width="70%" controls autoplay loop muted></video>](https://1drv.ms/v/c/24ae190b11856e88/IQAcdUhb6Ok6Q6-iNvfrcLtqAdKP2vCEhY5MHtMGxjxQ5UQ?e=gnrBbx)
+https://1drv.ms/v/c/24ae190b11856e88/IQAcdUhb6Ok6Q6-iNvfrcLtqAY-0hUeoIxXOtyVoLfeBB-4?e=gc2QKK
 
 ---
 
